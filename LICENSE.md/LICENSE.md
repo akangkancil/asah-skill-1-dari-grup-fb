@@ -1,7 +1,7 @@
 selamat datang di github akang kancil
 kita belajar sama-sama
-jadi kalian boleh menggunakan source code ini untuk belajar, maupun untuk membantu project kalian
-di source code ini masih ada kekurangan
+jadi kalian boleh menggunakan source code ini untuk belajar, maupun perantara untuk membantu project kalian
+tapi memang disource code ini masih ada kekurangannya, harap dimaklumi
 
 pentiing !
 
