@@ -9,6 +9,19 @@ menuA.forEach(ok=>{
     })
 })
 
+// burger bar - responsive menu //
+let burgerBtn = document.querySelector('.burger-bar-btn');
+let burgerMenu = document.querySelector('.burger-bar-menu');
+burgerBtn.addEventListener('click', function(){
+    if (burgerMenu.classList.contains('slideLeft')) {
+        burgerMenu.classList.remove('slideLeft')
+        burgerMenu.classList.add('slideRight');
+    }else{
+        burgerMenu.classList.add('slideLeft');
+        burgerMenu.classList.remove('slideRight');
+    }
+})
+
 // produk //
 
 let face1 = document.querySelectorAll(".interface1");
